@@ -12,6 +12,12 @@ This solution uses **tasker** for Android to sense the orientation of your phone
 * On Entrance - Mute phone, all volumes to 0, end call, screen off
 * On Exit - Unmute phone, all voluems to 5
 
+Requirements
+------------
+
+* Android
+* Tasker
+
 Detailed Steps
 --------------
 
