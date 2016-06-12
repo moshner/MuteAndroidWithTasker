@@ -4,8 +4,6 @@
 
 **Solution**: Mute my phone automatically by the simple act of turning it upside down on the table.
 
-![phone being turned upside down to illustrate the task][phone-illustration]
-
 Overview
 --------
 This solution uses **tasker** for Android to sense the orientation of your phone and turn off the volume. Optionally, you can then create an exit task to return the phone to a more normal volume.
@@ -78,4 +76,3 @@ Detailed Steps
 1. Back Button out
 
 [taskerurl]: http://tasker.dinglisch.net/
-[phone-illustration]: /path/to/img.jpg "Title"
