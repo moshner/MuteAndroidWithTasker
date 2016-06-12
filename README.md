@@ -1,4 +1,4 @@
-#  "Mute Your Phone By Turning It Upside Down"
+#  Mute Your Phone By Turning It Upside Down
 
 **Problem**: I forget to mute my phone in meetings sometimes.
 
